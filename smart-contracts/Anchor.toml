@@ -7,7 +7,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-hangman = "Hp8S9gQjhCVctpLA2tbcDN59Gqc4Vr9xKbJSFWuqa2C6"
+hangman = "91kKNMwRfngRgNTPgcBsjbfamFQMiZo8iW9Gmkv3UE1S"
 
 [registry]
 url = "https://api.apr.anchor.so"

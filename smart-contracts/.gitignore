@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+target/
+.anchor/
+.DS_Store
+**/*.rs.bk
+.idea
+.vscode
+
+# Build artifacts
+dist/
+*.so
+
+# Test artifacts
+test-ledger/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+
